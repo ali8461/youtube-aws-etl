@@ -4,7 +4,11 @@
 This project is an end-to-end data pipeline that ingests, processes, and analyzes YouTube trending video data using AWS services. The goal is to build a scalable, serverless analytics platform using a modern data lake architecture.
 
 ---
+## 📷 Architecture Diagram
 
+![Architecture](architecture.jpeg)
+
+---
 ## 📁 Project Structure
 
 ### Data Sources
@@ -107,11 +111,7 @@ Here are some key insights enabled by the pipeline:
 
 ---
 
-## 📷 Architecture Diagram
 
-![Architecture](architecture.jpeg)
-
----
 
 ## 🚀 Getting Started
 
@@ -133,5 +133,9 @@ Here are some key insights enabled by the pipeline:
 5. Create QuickSight dashboards for analysis.
 
 ---
+![Analysis](snippets/data-exploration.png)
+
+
+
 
 
